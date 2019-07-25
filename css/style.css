@@ -1,0 +1,77 @@
+body{
+    padding-bottom: 20px;
+    color: #5a5a5a;
+    font-family: 'Acme', sans-serif;
+}
+.navbar-wapper{
+    position: absolute;
+    top:0;
+    right: 0;
+    left: 0;
+    z-index: 20;
+    
+}
+#ooo{
+    text-align: center;
+    margin-top: 70px;
+}
+
+.navbar-wapper > .container{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.navbar-wapper .container .carousel{
+    width: auto;
+}
+
+.carousel-inner{
+    height: 500px;
+}
+
+.carousel .item{
+    height: 500px;
+    background-color: #777;
+}
+
+.carousel{
+    height: 500px;
+    margin-bottom: 50px;
+}
+
+/*team start*/
+
+hr .divider{
+    height: 50px;
+}
+.team {
+    text-align: center;
+}
+
+.row .q{
+    height: 300px;
+    text-align: center;
+}
+.team .col-lg-4{
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.team h2{
+    color: rgba(50,50,50,1);
+}
+.team p{
+    color: dimgrey;
+}
+
+/*team end*/
+
+.x{
+    margin: 60px;
+}
+.cc{
+    text-align: center;
+    padding-top: 100px
+}
+footer{
+    padding: 0px 135px;
+}
